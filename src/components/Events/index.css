@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  font-family: 'roboto';
+  margin: 0;
+  display: flex;
+}
+
+.events-bg-container {
+  background-color: #64748b;
+  padding: 24px;
+  width: 50%;
+}
+
+.events-main-heading {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.events-list-container {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.registration-bg-container {
+  width: 40%;
+}
